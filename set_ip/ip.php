@@ -6,7 +6,7 @@ $alert_ip = '192.168.1.48';
 
 # Wenn sie Shelly Bulb einbinden wollen $include_bulb = 'on' 
 # If you want to include Shelly Bulb $include_bulb = 'on'
-$include_bulb = 'on';
+$include_bulb = 'off';
 
 function ip_change($ip){
 	global $alert_ip;
