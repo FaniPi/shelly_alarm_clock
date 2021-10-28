@@ -11,7 +11,7 @@ What needs to be adjusted.
 1. File shelly/set_ip/ip.php
 Enter the IP of the Shelly WiFi Switch in the $alert_ip variable.
 2. File shelly/wecker/wecker.py
-Enter the IP of the Shelly WiFi Switch in the $ip variable.
+Enter the IP of the Shelly WiFi Switch in the ip variable.
 
 Options to switch the light on and off.
 1. Shelly WiFi Switch 1 or 2.5
@@ -34,7 +34,7 @@ Was muss angepasst werden.
 1. Datei shelly/set_ip/ip.php
 Geben Sie die IP des Shelly WiFi Switch in der Variabel $alert_ip ein.
 2. Datei shelly/wecker/wecker.py
-Geben Sie die IP des Shelly WiFi Switch in der Variabel $ip ein.
+Geben Sie die IP des Shelly WiFi Switch in der Variabel ip ein.
 3. Auf Deutsch umstellen
 Datei shelly/index.php umbenennen zu indexEN.php
 Datei shelly/indexDE.php umbenennen zu index.php
