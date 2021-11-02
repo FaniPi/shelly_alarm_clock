@@ -1,5 +1,4 @@
 <?php
-# Copyright (c) 2021 FaniPi
 
 $myfile = fopen("sleep.info", "w") or die("Unable to open file!");
 fclose($myfile);
