@@ -1,5 +1,5 @@
 <?php
-# Copyright (c) 2021 FaniPi
+
 include "../set_ip/ip.php";
 
 #unlink("sleep.info");
