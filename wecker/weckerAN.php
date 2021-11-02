@@ -1,5 +1,4 @@
 <?php
-# Copyright (c) 2021 FaniPi
 
 $myfile = fopen("wecker.info", "w");
 fclose($myfile);
