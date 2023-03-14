@@ -22,7 +22,7 @@ while 0 < 1:
         f.close()
         x = datetime.datetime.now()  # 1-366
         sys_tag = x.strftime("%j")
-        if repeat_tag == sys_tag:
+        if int(repeat_tag) == int(sys_tag):
             time.sleep(10)
             continue
         else:
