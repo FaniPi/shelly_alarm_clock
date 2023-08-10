@@ -47,5 +47,5 @@ Datei shelly/shelly_bulb_anzeigen.php
 Datei shelly/set_ip/ip.php $include_bulb = 'on'
 
 ## Vorschau
-**Grosser Bildschim**
+**Grosser Bildschirm**
 ![Vorschau](https://github.com/FaniPi/shelly_alarm_clock/blob/FaniPi-patch-1/PreviewImages/shelly_alarm_clock_L.png)
