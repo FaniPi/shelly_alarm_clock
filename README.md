@@ -48,4 +48,4 @@ Datei shelly/set_ip/ip.php $include_bulb = 'on'
 
 ## Vorschau
 **Grosser Bildschirm**
-![Vorschau](https://github.com/FaniPi/shelly_alarm_clock/blob/FaniPi-patch-1/PreviewImages/shelly_alarm_clock_L.png)
+![Vorschau](https://github.com/FaniPi/shelly_alarm_clock/blob/master/PreviewImages/shelly_alarm_clock_L.png)
